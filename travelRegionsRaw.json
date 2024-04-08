@@ -27,7 +27,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "World",
@@ -56,7 +57,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "World",
@@ -85,7 +87,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "World",
@@ -114,7 +117,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "World",
@@ -143,7 +147,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "World",
@@ -172,7 +177,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "World",
@@ -201,7 +207,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "World",
@@ -230,7 +237,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "North America",
@@ -259,7 +267,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Canada",
@@ -279,16 +288,17 @@
             "nov": "--",
             "dec": "--",
             "safety": "",
-            "nature": "o",
-            "hiking": "o",
-            "beach": "--",
+            "nature": "+",
+            "hiking": "++",
+            "beach": "++",
             "watersports": "--",
             "entertainment": "--",
-            "wintersports": "o",
+            "wintersports": "--",
             "culture": "--",
-            "culinary": "--",
+            "culinary": "-",
             "architecture": "--",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Canada",
@@ -310,14 +320,15 @@
             "safety": "",
             "nature": "++",
             "hiking": "++",
-            "beach": "-",
+            "beach": "++",
             "watersports": "o",
             "entertainment": "+",
-            "wintersports": "++",
+            "wintersports": "o",
             "culture": "o",
-            "culinary": "+",
-            "architecture": "+",
-            "shopping": "+"
+            "culinary": "-",
+            "architecture": "o",
+            "shopping": "o",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Canada",
@@ -339,14 +350,15 @@
             "safety": "",
             "nature": "++",
             "hiking": "++",
-            "beach": "-",
+            "beach": "+",
             "watersports": "-",
-            "entertainment": "--",
-            "wintersports": "++",
+            "entertainment": "+",
+            "wintersports": "o",
             "culture": "-",
             "culinary": "-",
-            "architecture": "-",
-            "shopping": "-"
+            "architecture": "+",
+            "shopping": "o",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Canada",
@@ -368,14 +380,15 @@
             "safety": "",
             "nature": "++",
             "hiking": "++",
-            "beach": "--",
+            "beach": "++",
             "watersports": "-",
-            "entertainment": "+",
-            "wintersports": "-",
+            "entertainment": "++",
+            "wintersports": "+",
             "culture": "o",
             "culinary": "-",
-            "architecture": "o",
-            "shopping": "o"
+            "architecture": "++",
+            "shopping": "+",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Canada",
@@ -395,16 +408,17 @@
             "nov": "-",
             "dec": "--",
             "safety": "",
-            "nature": "+",
-            "hiking": "+",
-            "beach": "--",
+            "nature": "++",
+            "hiking": "++",
+            "beach": "++",
             "watersports": "-",
-            "entertainment": "+",
+            "entertainment": "++",
             "wintersports": "+",
             "culture": "+",
             "culinary": "-",
             "architecture": "+",
-            "shopping": "+"
+            "shopping": "+",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Canada",
@@ -424,16 +438,17 @@
             "nov": "-",
             "dec": "--",
             "safety": "",
-            "nature": "++",
-            "hiking": "o",
-            "beach": "-",
+            "nature": "-",
+            "hiking": "++",
+            "beach": "+",
             "watersports": "+",
-            "entertainment": "o",
-            "wintersports": "o",
+            "entertainment": "--",
+            "wintersports": "--",
             "culture": "o",
-            "culinary": "+",
+            "culinary": "-",
             "architecture": "-",
-            "shopping": "o"
+            "shopping": "--",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "North America",
@@ -462,7 +477,8 @@
             "culture": "-",
             "culinary": "--",
             "architecture": "--",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "North America",
@@ -491,7 +507,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "USA",
@@ -512,15 +529,16 @@
             "dec": "--",
             "safety": "",
             "nature": "++",
-            "hiking": "+",
-            "beach": "--",
+            "hiking": "--",
+            "beach": "o",
             "watersports": "-",
             "entertainment": "-",
-            "wintersports": "o",
+            "wintersports": "--",
             "culture": "-",
-            "culinary": "o",
-            "architecture": "--",
-            "shopping": "--"
+            "culinary": "+",
+            "architecture": "-",
+            "shopping": "--",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "USA",
@@ -541,15 +559,16 @@
             "dec": "-",
             "safety": "",
             "nature": "++",
-            "hiking": "+",
-            "beach": "o",
+            "hiking": "--",
+            "beach": "+",
             "watersports": "-",
-            "entertainment": "o",
-            "wintersports": "+",
+            "entertainment": "++",
+            "wintersports": "-",
             "culture": "o",
-            "culinary": "o",
+            "culinary": "+",
             "architecture": "+",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "USA",
@@ -569,16 +588,17 @@
             "nov": "+",
             "dec": "o",
             "safety": "o",
-            "nature": "+",
-            "hiking": "+",
-            "beach": "++",
+            "nature": "++",
+            "hiking": "--",
+            "beach": "+",
             "watersports": "+",
             "entertainment": "++",
-            "wintersports": "-",
+            "wintersports": "o",
             "culture": "+",
-            "culinary": "o",
+            "culinary": "+",
             "architecture": "++",
-            "shopping": "++"
+            "shopping": "+",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "USA",
@@ -599,15 +619,16 @@
             "dec": "o",
             "safety": "",
             "nature": "++",
-            "hiking": "+",
-            "beach": "--",
+            "hiking": "--",
+            "beach": "+",
             "watersports": "-",
-            "entertainment": "-",
-            "wintersports": "--",
+            "entertainment": "++",
+            "wintersports": "o",
             "culture": "-",
-            "culinary": "-",
-            "architecture": "-",
-            "shopping": "--"
+            "culinary": "+",
+            "architecture": "+",
+            "shopping": "+",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "USA",
@@ -627,16 +648,17 @@
             "nov": "o",
             "dec": "-",
             "safety": "",
-            "nature": "+",
-            "hiking": "++",
-            "beach": "--",
+            "nature": "++",
+            "hiking": "--",
+            "beach": "o",
             "watersports": "--",
-            "entertainment": "-",
-            "wintersports": "++",
+            "entertainment": "+",
+            "wintersports": "o",
             "culture": "-",
-            "culinary": "-",
-            "architecture": "-",
-            "shopping": "--"
+            "culinary": "+",
+            "architecture": "+",
+            "shopping": "o",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "USA",
@@ -656,16 +678,17 @@
             "nov": "-",
             "dec": "--",
             "safety": "",
-            "nature": "o",
+            "nature": "+",
             "hiking": "--",
-            "beach": "--",
+            "beach": "o",
             "watersports": "--",
-            "entertainment": "--",
+            "entertainment": "++",
             "wintersports": "--",
             "culture": "-",
-            "culinary": "-",
-            "architecture": "--",
-            "shopping": "--"
+            "culinary": "+",
+            "architecture": "+",
+            "shopping": "o",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "USA",
@@ -685,16 +708,17 @@
             "nov": "o",
             "dec": "-",
             "safety": "",
-            "nature": "-",
-            "hiking": "-",
-            "beach": "o",
+            "nature": "+",
+            "hiking": "++",
+            "beach": "-",
             "watersports": "o",
-            "entertainment": "o",
+            "entertainment": "++",
             "wintersports": "-",
             "culture": "+",
-            "culinary": "o",
-            "architecture": "o",
-            "shopping": "o"
+            "culinary": "+",
+            "architecture": "+",
+            "shopping": "+",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "USA",
@@ -714,16 +738,17 @@
             "nov": "-",
             "dec": "--",
             "safety": "",
-            "nature": "o",
+            "nature": "++",
             "hiking": "--",
-            "beach": "-",
+            "beach": "++",
             "watersports": "-",
             "entertainment": "++",
-            "wintersports": "--",
+            "wintersports": "o",
             "culture": "+",
             "culinary": "+",
             "architecture": "++",
-            "shopping": "+"
+            "shopping": "++",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "USA",
@@ -743,16 +768,17 @@
             "nov": "+",
             "dec": "o",
             "safety": "",
-            "nature": "+",
-            "hiking": "-",
-            "beach": "+",
+            "nature": "++",
+            "hiking": "--",
+            "beach": "++",
             "watersports": "++",
             "entertainment": "++",
-            "wintersports": "--",
+            "wintersports": "o",
             "culture": "+",
-            "culinary": "++",
-            "architecture": "o",
-            "shopping": "o"
+            "culinary": "+",
+            "architecture": "++",
+            "shopping": "++",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "USA",
@@ -781,7 +807,8 @@
             "culture": "+",
             "culinary": "+",
             "architecture": "+",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "USA",
@@ -801,16 +828,17 @@
             "nov": "-",
             "dec": "--",
             "safety": "o",
-            "nature": "o",
-            "hiking": "-",
-            "beach": "-",
+            "nature": "++",
+            "hiking": "--",
+            "beach": "++",
             "watersports": "-",
             "entertainment": "++",
-            "wintersports": "o",
+            "wintersports": "+",
             "culture": "+",
-            "culinary": "o",
+            "culinary": "+",
             "architecture": "++",
-            "shopping": "++"
+            "shopping": "++",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "USA",
@@ -830,16 +858,17 @@
             "nov": "-",
             "dec": "--",
             "safety": "",
-            "nature": "+",
-            "hiking": "+",
-            "beach": "-",
+            "nature": "++",
+            "hiking": "--",
+            "beach": "++",
             "watersports": "o",
-            "entertainment": "o",
+            "entertainment": "++",
             "wintersports": "o",
             "culture": "+",
             "culinary": "+",
-            "architecture": "+",
-            "shopping": "-"
+            "architecture": "++",
+            "shopping": "+",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "USA",
@@ -859,16 +888,17 @@
             "nov": "++",
             "dec": "+",
             "safety": "o",
-            "nature": "+",
-            "hiking": "o",
-            "beach": "++",
+            "nature": "-",
+            "hiking": "--",
+            "beach": "o",
             "watersports": "++",
-            "entertainment": "o",
+            "entertainment": "-",
             "wintersports": "--",
             "culture": "o",
             "culinary": "+",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "--",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "North America",
@@ -897,7 +927,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Mexico",
@@ -926,7 +957,8 @@
             "culture": "-",
             "culinary": "o",
             "architecture": "--",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Mexico",
@@ -946,16 +978,17 @@
             "nov": "+",
             "dec": "++",
             "safety": "",
-            "nature": "o",
-            "hiking": "o",
-            "beach": "--",
+            "nature": "-",
+            "hiking": "+",
+            "beach": "-",
             "watersports": "--",
-            "entertainment": "--",
+            "entertainment": "o",
             "wintersports": "--",
             "culture": "-",
-            "culinary": "-",
+            "culinary": "++",
             "architecture": "--",
-            "shopping": "--"
+            "shopping": "+",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Mexico",
@@ -984,7 +1017,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "+",
-            "shopping": "+"
+            "shopping": "+",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Mexico",
@@ -1013,7 +1047,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Mexico",
@@ -1042,7 +1077,8 @@
             "culture": "++",
             "culinary": "+",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Middle America and Caribbean",
@@ -1071,7 +1107,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Middle America",
@@ -1100,7 +1137,8 @@
             "culture": "++",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Middle America",
@@ -1129,7 +1167,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Middle America",
@@ -1158,7 +1197,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Middle America",
@@ -1187,7 +1227,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Middle America",
@@ -1216,7 +1257,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "+",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Middle America and Caribbean",
@@ -1245,7 +1287,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Caribbean",
@@ -1265,16 +1308,17 @@
             "nov": "++",
             "dec": "++",
             "safety": "o",
-            "nature": "-",
+            "nature": "--",
             "hiking": "--",
-            "beach": "++",
+            "beach": "--",
             "watersports": "++",
-            "entertainment": "+",
+            "entertainment": "--",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "-",
+            "culinary": "--",
             "architecture": "--",
-            "shopping": "-"
+            "shopping": "--",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Caribbean",
@@ -1303,7 +1347,8 @@
             "culture": "++",
             "culinary": "--",
             "architecture": "+",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Caribbean",
@@ -1332,7 +1377,8 @@
             "culture": "+",
             "culinary": "-",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Caribbean",
@@ -1361,7 +1407,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "--",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South America",
@@ -1390,7 +1437,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South America",
@@ -1419,7 +1467,8 @@
             "culture": "-",
             "culinary": "+",
             "architecture": "--",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South America",
@@ -1448,7 +1497,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South America",
@@ -1477,7 +1527,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South America",
@@ -1506,7 +1557,8 @@
             "culture": "++",
             "culinary": "+",
             "architecture": "-",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South America",
@@ -1535,7 +1587,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South America",
@@ -1564,7 +1617,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Brazil",
@@ -1593,7 +1647,8 @@
             "culture": "-",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Brazil",
@@ -1622,7 +1677,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Brazil",
@@ -1643,15 +1699,16 @@
             "dec": "-",
             "safety": "",
             "nature": "+",
-            "hiking": "o",
-            "beach": "--",
+            "hiking": "++",
+            "beach": "-",
             "watersports": "-",
-            "entertainment": "-",
+            "entertainment": "o",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "-",
-            "shopping": "-"
+            "culinary": "++",
+            "architecture": "--",
+            "shopping": "++",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "Brazil",
@@ -1671,16 +1728,17 @@
             "nov": "-",
             "dec": "-",
             "safety": "",
-            "nature": "o",
-            "hiking": "-",
+            "nature": "++",
+            "hiking": "++",
             "beach": "+",
             "watersports": "o",
-            "entertainment": "o",
+            "entertainment": "++",
             "wintersports": "--",
             "culture": "++",
-            "culinary": "o",
-            "architecture": "++",
-            "shopping": "+"
+            "culinary": "++",
+            "architecture": "o",
+            "shopping": "++",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "Brazil",
@@ -1709,7 +1767,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South America",
@@ -1729,16 +1788,17 @@
             "nov": "++",
             "dec": "+",
             "safety": "+",
-            "nature": "+",
-            "hiking": "o",
-            "beach": "--",
+            "nature": "o",
+            "hiking": "+",
+            "beach": "+",
             "watersports": "-",
             "entertainment": "o",
-            "wintersports": "--",
+            "wintersports": "-",
             "culture": "+",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "o"
+            "shopping": "+",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "South America",
@@ -1767,7 +1827,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South America",
@@ -1796,7 +1857,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South America",
@@ -1825,7 +1887,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Argentina",
@@ -1846,15 +1909,16 @@
             "dec": "o",
             "safety": "+",
             "nature": "o",
-            "hiking": "o",
-            "beach": "--",
+            "hiking": "+",
+            "beach": "+",
             "watersports": "--",
             "entertainment": "-",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "--",
-            "shopping": "-"
+            "culinary": "+",
+            "architecture": "-",
+            "shopping": "+",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "Argentina",
@@ -1874,16 +1938,17 @@
             "nov": "++",
             "dec": "o",
             "safety": "+",
-            "nature": "o",
-            "hiking": "-",
-            "beach": "-",
+            "nature": "-",
+            "hiking": "+",
+            "beach": "o",
             "watersports": "-",
-            "entertainment": "-",
+            "entertainment": "+",
             "wintersports": "-",
             "culture": "+",
-            "culinary": "o",
-            "architecture": "+",
-            "shopping": "o"
+            "culinary": "+",
+            "architecture": "o",
+            "shopping": "+",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "South America",
@@ -1904,15 +1969,16 @@
             "dec": "++",
             "safety": "+",
             "nature": "+",
-            "hiking": "++",
-            "beach": "--",
+            "hiking": "+",
+            "beach": "+",
             "watersports": "o",
             "entertainment": "--",
             "wintersports": "-",
             "culture": "o",
-            "culinary": "-",
-            "architecture": "--",
-            "shopping": "--"
+            "culinary": "o",
+            "architecture": "-",
+            "shopping": "o",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "South America",
@@ -1941,7 +2007,8 @@
             "culture": "--",
             "culinary": "--",
             "architecture": "--",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Africa",
@@ -1970,7 +2037,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Maghreb",
@@ -1990,16 +2058,17 @@
             "nov": "",
             "dec": "",
             "safety": "o",
-            "nature": "+",
-            "hiking": "o",
+            "nature": "-",
+            "hiking": "--",
             "beach": "o",
             "watersports": "o",
-            "entertainment": "+",
+            "entertainment": "o",
             "wintersports": "--",
             "culture": "++",
-            "culinary": "+",
-            "architecture": "+",
-            "shopping": "+"
+            "culinary": "-",
+            "architecture": "o",
+            "shopping": "-",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Maghreb",
@@ -2019,16 +2088,17 @@
             "nov": "",
             "dec": "",
             "safety": "-",
-            "nature": "o",
-            "hiking": "-",
-            "beach": "o",
+            "nature": "-",
+            "hiking": "--",
+            "beach": "+",
             "watersports": "-",
             "entertainment": "o",
             "wintersports": "--",
             "culture": "o",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Maghreb",
@@ -2057,7 +2127,8 @@
             "culture": "+",
             "culinary": "+",
             "architecture": "o",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Maghreb",
@@ -2086,7 +2157,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Africa",
@@ -2115,7 +2187,8 @@
             "culture": "++",
             "culinary": "o",
             "architecture": "+",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Africa",
@@ -2144,7 +2217,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Africa",
@@ -2173,7 +2247,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Africa",
@@ -2197,12 +2272,13 @@
             "hiking": "-",
             "beach": "+",
             "watersports": "o",
-            "entertainment": "-",
+            "entertainment": "+",
             "wintersports": "--",
             "culture": "+",
-            "culinary": "o",
+            "culinary": "--",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "+",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Africa",
@@ -2231,7 +2307,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Africa",
@@ -2260,7 +2337,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "East Africa",
@@ -2289,7 +2367,8 @@
             "culture": "+",
             "culinary": "-",
             "architecture": "o",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "East Africa",
@@ -2318,7 +2397,8 @@
             "culture": "-",
             "culinary": "-",
             "architecture": "--",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "East Africa",
@@ -2347,7 +2427,8 @@
             "culture": "o",
             "culinary": "-",
             "architecture": "o",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "East Africa",
@@ -2376,7 +2457,8 @@
             "culture": "o",
             "culinary": "-",
             "architecture": "-",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "East Africa",
@@ -2405,7 +2487,8 @@
             "culture": "o",
             "culinary": "-",
             "architecture": "-",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Africa",
@@ -2434,7 +2517,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southern Africa",
@@ -2463,7 +2547,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "--",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southern Africa",
@@ -2492,7 +2577,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southern Africa",
@@ -2521,7 +2607,8 @@
             "culture": "o",
             "culinary": "-",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southern Africa",
@@ -2550,7 +2637,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southern Africa",
@@ -2579,7 +2667,8 @@
             "culture": "-",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southern Africa",
@@ -2608,7 +2697,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southern Africa",
@@ -2637,7 +2727,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Asia",
@@ -2666,7 +2757,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Near and Middle East",
@@ -2695,7 +2787,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "+",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Near and Middle East",
@@ -2724,7 +2817,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Near and Middle East",
@@ -2744,16 +2838,17 @@
             "nov": "++",
             "dec": "o",
             "safety": "--",
-            "nature": "o",
-            "hiking": "-",
-            "beach": "o",
+            "nature": "-",
+            "hiking": "+",
+            "beach": "--",
             "watersports": "-",
-            "entertainment": "-",
+            "entertainment": "o",
             "wintersports": "--",
             "culture": "o",
             "culinary": "o",
-            "architecture": "-",
-            "shopping": "-"
+            "architecture": "+",
+            "shopping": "-",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Near and Middle East",
@@ -2782,7 +2877,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Near and Middle East",
@@ -2803,15 +2899,16 @@
             "dec": "o",
             "safety": "+",
             "nature": "o",
-            "hiking": "-",
+            "hiking": "o",
             "beach": "-",
             "watersports": "-",
             "entertainment": "o",
-            "wintersports": "o",
+            "wintersports": "--",
             "culture": "+",
             "culinary": "o",
-            "architecture": "o",
-            "shopping": "-"
+            "architecture": "++",
+            "shopping": "++",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Near and Middle East",
@@ -2831,16 +2928,17 @@
             "nov": "++",
             "dec": "++",
             "safety": "++",
-            "nature": "o",
+            "nature": "--",
             "hiking": "-",
-            "beach": "o",
+            "beach": "+",
             "watersports": "o",
-            "entertainment": "o",
-            "wintersports": "-",
+            "entertainment": "-",
+            "wintersports": "--",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "+",
-            "shopping": "+"
+            "culinary": "--",
+            "architecture": "-",
+            "shopping": "o",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Near and Middle East",
@@ -2869,7 +2967,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Near and Middle East",
@@ -2898,7 +2997,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "+",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Near and Middle East",
@@ -2927,7 +3027,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "+"
+            "shopping": "+",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Asia",
@@ -2956,7 +3057,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Russland and Caucasus",
@@ -2977,15 +3079,16 @@
             "dec": "--",
             "safety": "-",
             "nature": "o",
-            "hiking": "-",
-            "beach": "-",
+            "hiking": "+",
+            "beach": "o",
             "watersports": "--",
-            "entertainment": "-",
+            "entertainment": "+",
             "wintersports": "-",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "o",
-            "shopping": "-"
+            "culinary": "--",
+            "architecture": "++",
+            "shopping": "o",
+            "sustainability": "o"
         },
         {
             "ParentRegion": "Russland and Caucasus",
@@ -3005,16 +3108,17 @@
             "nov": "--",
             "dec": "--",
             "safety": "",
-            "nature": "o",
+            "nature": "++",
             "hiking": "-",
-            "beach": "-",
+            "beach": "--",
             "watersports": "-",
-            "entertainment": "o",
+            "entertainment": "+",
             "wintersports": "--",
             "culture": "+",
-            "culinary": "o",
+            "culinary": "-",
             "architecture": "+",
-            "shopping": "+"
+            "shopping": "--",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "Russland and Caucasus",
@@ -3036,14 +3140,15 @@
             "safety": "-",
             "nature": "o",
             "hiking": "-",
-            "beach": "-",
+            "beach": "+",
             "watersports": "-",
             "entertainment": "-",
             "wintersports": "-",
             "culture": "o",
-            "culinary": "o",
+            "culinary": "-",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "++",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "Russland and Caucasus",
@@ -3063,16 +3168,17 @@
             "nov": "--",
             "dec": "--",
             "safety": "",
-            "nature": "o",
+            "nature": "++",
             "hiking": "-",
-            "beach": "--",
+            "beach": "++",
             "watersports": "--",
-            "entertainment": "--",
-            "wintersports": "-",
+            "entertainment": "o",
+            "wintersports": "++",
             "culture": "-",
             "culinary": "-",
-            "architecture": "--",
-            "shopping": "--"
+            "architecture": "-",
+            "shopping": "++",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "Russland and Caucasus",
@@ -3092,16 +3198,17 @@
             "nov": "--",
             "dec": "--",
             "safety": "",
-            "nature": "o",
+            "nature": "++",
             "hiking": "-",
-            "beach": "--",
+            "beach": "++",
             "watersports": "--",
             "entertainment": "--",
-            "wintersports": "-",
+            "wintersports": "+",
             "culture": "--",
             "culinary": "-",
             "architecture": "--",
-            "shopping": "--"
+            "shopping": "++",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "Asia",
@@ -3130,7 +3237,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South Asia",
@@ -3159,7 +3267,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South Asia",
@@ -3188,7 +3297,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South Asia",
@@ -3217,7 +3327,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South Asia",
@@ -3246,7 +3357,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "India",
@@ -3267,15 +3379,16 @@
             "dec": "++",
             "safety": "",
             "nature": "+",
-            "hiking": "++",
-            "beach": "--",
+            "hiking": "o",
+            "beach": "-",
             "watersports": "--",
-            "entertainment": "-",
-            "wintersports": "-",
+            "entertainment": "+",
+            "wintersports": "o",
             "culture": "+",
-            "culinary": "+",
-            "architecture": "+",
-            "shopping": "o"
+            "culinary": "++",
+            "architecture": "++",
+            "shopping": "+",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "India",
@@ -3304,7 +3417,8 @@
             "culture": "+",
             "culinary": "+",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "India",
@@ -3333,7 +3447,8 @@
             "culture": "+",
             "culinary": "+",
             "architecture": "+",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "India",
@@ -3362,7 +3477,8 @@
             "culture": "+",
             "culinary": "+",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "India",
@@ -3391,7 +3507,8 @@
             "culture": "+",
             "culinary": "+",
             "architecture": "+",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South Asia",
@@ -3420,7 +3537,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "South Asia",
@@ -3440,16 +3558,17 @@
             "nov": "-",
             "dec": "-",
             "safety": "+",
-            "nature": "-",
+            "nature": "--",
             "hiking": "--",
-            "beach": "++",
+            "beach": "--",
             "watersports": "++",
-            "entertainment": "o",
+            "entertainment": "--",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "-",
-            "shopping": "--"
+            "culinary": "--",
+            "architecture": "--",
+            "shopping": "--",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Asia",
@@ -3478,7 +3597,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southeast Asia",
@@ -3507,7 +3627,8 @@
             "culture": "++",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southeast Asia",
@@ -3536,7 +3657,8 @@
             "culture": "+",
             "culinary": "+",
             "architecture": "+",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southeast Asia",
@@ -3565,7 +3687,8 @@
             "culture": "o",
             "culinary": "+",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southeast Asia",
@@ -3594,7 +3717,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southeast Asia",
@@ -3614,16 +3738,17 @@
             "nov": "+",
             "dec": "o",
             "safety": "++",
-            "nature": "+",
-            "hiking": "-",
-            "beach": "+",
+            "nature": "-",
+            "hiking": "o",
+            "beach": "-",
             "watersports": "o",
-            "entertainment": "o",
+            "entertainment": "+",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "+",
-            "shopping": "+"
+            "culinary": "-",
+            "architecture": "++",
+            "shopping": "+",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Southeast Asia",
@@ -3652,7 +3777,8 @@
             "culture": "o",
             "culinary": "-",
             "architecture": "--",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southeast Asia",
@@ -3681,7 +3807,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Indonesia",
@@ -3701,16 +3828,17 @@
             "nov": "-",
             "dec": "--",
             "safety": "",
-            "nature": "+",
-            "hiking": "+",
-            "beach": "o",
+            "nature": "o",
+            "hiking": "o",
+            "beach": "+",
             "watersports": "+",
-            "entertainment": "o",
+            "entertainment": "+",
             "wintersports": "--",
             "culture": "+",
-            "culinary": "o",
+            "culinary": "++",
             "architecture": "+",
-            "shopping": "o"
+            "shopping": "++",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Indonesia",
@@ -3739,7 +3867,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Indonesia",
@@ -3768,7 +3897,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "--",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southeast Asia",
@@ -3797,7 +3927,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Asia",
@@ -3826,7 +3957,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "East Asia",
@@ -3855,7 +3987,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "China",
@@ -3875,16 +4008,17 @@
             "nov": "--",
             "dec": "--",
             "safety": "",
-            "nature": "o",
-            "hiking": "-",
-            "beach": "-",
+            "nature": "--",
+            "hiking": "o",
+            "beach": "+",
             "watersports": "--",
             "entertainment": "-",
-            "wintersports": "o",
+            "wintersports": "-",
             "culture": "-",
-            "culinary": "o",
+            "culinary": "++",
             "architecture": "-",
-            "shopping": "o"
+            "shopping": "+",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "China",
@@ -3904,16 +4038,17 @@
             "nov": "-",
             "dec": "--",
             "safety": "",
-            "nature": "o",
-            "hiking": "-",
-            "beach": "-",
+            "nature": "-",
+            "hiking": "o",
+            "beach": "+",
             "watersports": "-",
-            "entertainment": "+",
-            "wintersports": "-",
+            "entertainment": "o",
+            "wintersports": "o",
             "culture": "+",
-            "culinary": "o",
+            "culinary": "++",
             "architecture": "+",
-            "shopping": "+"
+            "shopping": "++",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "China",
@@ -3934,15 +4069,16 @@
             "dec": "--",
             "safety": "",
             "nature": "o",
-            "hiking": "-",
-            "beach": "--",
+            "hiking": "o",
+            "beach": "-",
             "watersports": "--",
-            "entertainment": "-",
-            "wintersports": "--",
+            "entertainment": "--",
+            "wintersports": "o",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "-",
-            "shopping": "-"
+            "culinary": "++",
+            "architecture": "o",
+            "shopping": "+",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "China",
@@ -3963,15 +4099,16 @@
             "dec": "--",
             "safety": "",
             "nature": "+",
-            "hiking": "+",
-            "beach": "--",
+            "hiking": "o",
+            "beach": "o",
             "watersports": "--",
-            "entertainment": "o",
-            "wintersports": "-",
+            "entertainment": "--",
+            "wintersports": "--",
             "culture": "+",
-            "culinary": "+",
-            "architecture": "-",
-            "shopping": "-"
+            "culinary": "++",
+            "architecture": "o",
+            "shopping": "++",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "China",
@@ -3996,11 +4133,12 @@
             "beach": "--",
             "watersports": "--",
             "entertainment": "o",
-            "wintersports": "-",
+            "wintersports": "--",
             "culture": "o",
-            "culinary": "+",
-            "architecture": "o",
-            "shopping": "o"
+            "culinary": "++",
+            "architecture": "+",
+            "shopping": "++",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "China",
@@ -4020,16 +4158,17 @@
             "nov": "+",
             "dec": "o",
             "safety": "",
-            "nature": "+",
+            "nature": "o",
             "hiking": "o",
             "beach": "+",
             "watersports": "+",
             "entertainment": "+",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "++",
-            "shopping": "++"
+            "culinary": "++",
+            "architecture": "+",
+            "shopping": "++",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "China",
@@ -4049,16 +4188,17 @@
             "nov": "o",
             "dec": "-",
             "safety": "",
-            "nature": "+",
+            "nature": "-",
             "hiking": "o",
-            "beach": "o",
+            "beach": "--",
             "watersports": "o",
-            "entertainment": "+",
+            "entertainment": "o",
             "wintersports": "--",
             "culture": "+",
-            "culinary": "o",
-            "architecture": "++",
-            "shopping": "++"
+            "culinary": "++",
+            "architecture": "+",
+            "shopping": "+",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "East Asia",
@@ -4087,7 +4227,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "+",
-            "shopping": "+"
+            "shopping": "+",
+            "sustainability": ""
         },
         {
             "ParentRegion": "East Asia",
@@ -4107,16 +4248,17 @@
             "nov": "+",
             "dec": "-",
             "safety": "++",
-            "nature": "+",
+            "nature": "++",
             "hiking": "+",
-            "beach": "o",
+            "beach": "++",
             "watersports": "-",
-            "entertainment": "+",
-            "wintersports": "o",
+            "entertainment": "++",
+            "wintersports": "+",
             "culture": "+",
-            "culinary": "o",
+            "culinary": "--",
             "architecture": "++",
-            "shopping": "+"
+            "shopping": "++",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "East Asia",
@@ -4138,14 +4280,15 @@
             "safety": "+",
             "nature": "+",
             "hiking": "+",
-            "beach": "-",
+            "beach": "o",
             "watersports": "-",
-            "entertainment": "o",
+            "entertainment": "++",
             "wintersports": "-",
             "culture": "+",
             "culinary": "o",
             "architecture": "+",
-            "shopping": "+"
+            "shopping": "o",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "East Asia",
@@ -4165,16 +4308,17 @@
             "nov": "+",
             "dec": "-",
             "safety": "o",
-            "nature": "-",
+            "nature": "--",
             "hiking": "--",
-            "beach": "--",
+            "beach": "o",
             "watersports": "--",
-            "entertainment": "--",
+            "entertainment": "-",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "--",
+            "culinary": "o",
             "architecture": "-",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": "o"
         },
         {
             "ParentRegion": "East Asia",
@@ -4195,15 +4339,16 @@
             "dec": "--",
             "safety": "+",
             "nature": "o",
-            "hiking": "o",
+            "hiking": "-",
             "beach": "--",
             "watersports": "--",
-            "entertainment": "-",
-            "wintersports": "-",
+            "entertainment": "--",
+            "wintersports": "--",
             "culture": "o",
             "culinary": "o",
-            "architecture": "--",
-            "shopping": "-"
+            "architecture": "-",
+            "shopping": "--",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Asia",
@@ -4232,7 +4377,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Central Asia",
@@ -4252,16 +4398,17 @@
             "nov": "+",
             "dec": "--",
             "safety": "o",
-            "nature": "o",
-            "hiking": "o",
+            "nature": "-",
+            "hiking": "--",
             "beach": "--",
             "watersports": "--",
-            "entertainment": "-",
-            "wintersports": "o",
+            "entertainment": "o",
+            "wintersports": "--",
             "culture": "o",
-            "culinary": "o",
+            "culinary": "--",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Central Asia",
@@ -4281,16 +4428,17 @@
             "nov": "-",
             "dec": "--",
             "safety": "o",
-            "nature": "+",
-            "hiking": "-",
-            "beach": "--",
+            "nature": "o",
+            "hiking": "o",
+            "beach": "-",
             "watersports": "--",
             "entertainment": "--",
-            "wintersports": "--",
+            "wintersports": "-",
             "culture": "-",
-            "culinary": "o",
+            "culinary": "--",
             "architecture": "--",
-            "shopping": "--"
+            "shopping": "-",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Central Asia",
@@ -4310,16 +4458,17 @@
             "nov": "--",
             "dec": "--",
             "safety": "o",
-            "nature": "-",
-            "hiking": "--",
-            "beach": "--",
+            "nature": "+",
+            "hiking": "o",
+            "beach": "o",
             "watersports": "--",
-            "entertainment": "--",
-            "wintersports": "--",
+            "entertainment": "o",
+            "wintersports": "-",
             "culture": "o",
-            "culinary": "-",
-            "architecture": "-",
-            "shopping": "-"
+            "culinary": "--",
+            "architecture": "o",
+            "shopping": "+",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Central Asia",
@@ -4348,7 +4497,8 @@
             "culture": "o",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Oceania",
@@ -4377,7 +4527,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Australia",
@@ -4406,7 +4557,8 @@
             "culture": "o",
             "culinary": "-",
             "architecture": "-",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Australia",
@@ -4427,15 +4579,16 @@
             "dec": "o",
             "safety": "",
             "nature": "+",
-            "hiking": "o",
+            "hiking": "++",
             "beach": "++",
             "watersports": "++",
-            "entertainment": "o",
+            "entertainment": "+",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "-",
-            "architecture": "-",
-            "shopping": "o"
+            "culinary": "--",
+            "architecture": "o",
+            "shopping": "o",
+            "sustainability": "o"
         },
         {
             "ParentRegion": "Australia",
@@ -4455,16 +4608,17 @@
             "nov": "++",
             "dec": "o",
             "safety": "",
-            "nature": "+",
-            "hiking": "+",
-            "beach": "+",
+            "nature": "++",
+            "hiking": "++",
+            "beach": "++",
             "watersports": "+",
-            "entertainment": "o",
-            "wintersports": "--",
+            "entertainment": "++",
+            "wintersports": "+",
             "culture": "o",
-            "culinary": "-",
-            "architecture": "o",
-            "shopping": "o"
+            "culinary": "--",
+            "architecture": "++",
+            "shopping": "++",
+            "sustainability": "o"
         },
         {
             "ParentRegion": "Oceania",
@@ -4485,15 +4639,16 @@
             "dec": "++",
             "safety": "++",
             "nature": "++",
-            "hiking": "+",
-            "beach": "o",
+            "hiking": "++",
+            "beach": "++",
             "watersports": "o",
-            "entertainment": "o",
-            "wintersports": "-",
+            "entertainment": "+",
+            "wintersports": "o",
             "culture": "o",
-            "culinary": "o",
+            "culinary": "--",
             "architecture": "o",
-            "shopping": "o"
+            "shopping": "-",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Oceania",
@@ -4522,7 +4677,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "-",
-            "shopping": "--"
+            "shopping": "--",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Oceania",
@@ -4551,7 +4707,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Pacific",
@@ -4571,16 +4728,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "+",
-            "hiking": "-",
-            "beach": "++",
+            "nature": "-",
+            "hiking": "--",
+            "beach": "--",
             "watersports": "+",
-            "entertainment": "-",
+            "entertainment": "--",
             "wintersports": "--",
             "culture": "+",
-            "culinary": "o",
+            "culinary": "--",
             "architecture": "--",
-            "shopping": "-"
+            "shopping": "--",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Pacific",
@@ -4609,7 +4767,8 @@
             "culture": "+",
             "culinary": "o",
             "architecture": "--",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Pacific",
@@ -4629,16 +4788,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "+",
-            "hiking": "-",
-            "beach": "++",
+            "nature": "--",
+            "hiking": "--",
+            "beach": "--",
             "watersports": "+",
-            "entertainment": "o",
+            "entertainment": "-",
             "wintersports": "--",
             "culture": "+",
-            "culinary": "o",
-            "architecture": "--",
-            "shopping": "-"
+            "culinary": "--",
+            "architecture": "-",
+            "shopping": "--",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Europe",
@@ -4667,7 +4827,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "North Europe",
@@ -4687,16 +4848,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "+",
+            "nature": "++",
             "hiking": "+",
-            "beach": "--",
+            "beach": "++",
             "watersports": "-",
-            "entertainment": "-",
+            "entertainment": "+",
             "wintersports": "+",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "-",
-            "shopping": "o"
+            "culinary": "--",
+            "architecture": "++",
+            "shopping": "+",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "North Europe",
@@ -4718,14 +4880,15 @@
             "safety": "",
             "nature": "+",
             "hiking": "o",
-            "beach": "--",
+            "beach": "++",
             "watersports": "-",
-            "entertainment": "o",
-            "wintersports": "o",
+            "entertainment": "+",
+            "wintersports": "+",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "-",
-            "shopping": "o"
+            "culinary": "--",
+            "architecture": "+",
+            "shopping": "o",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "North Europe",
@@ -4746,15 +4909,16 @@
             "dec": "",
             "safety": "",
             "nature": "+",
-            "hiking": "o",
-            "beach": "-",
+            "hiking": "+",
+            "beach": "++",
             "watersports": "o",
-            "entertainment": "o",
-            "wintersports": "o",
+            "entertainment": "++",
+            "wintersports": "++",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "o",
-            "shopping": "o"
+            "culinary": "-",
+            "architecture": "++",
+            "shopping": "+",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "North Europe",
@@ -4774,16 +4938,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "+",
+            "nature": "o",
             "hiking": "+",
-            "beach": "--",
+            "beach": "-",
             "watersports": "o",
             "entertainment": "-",
-            "wintersports": "-",
+            "wintersports": "--",
             "culture": "o",
-            "culinary": "-",
+            "culinary": "--",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "--",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Europe",
@@ -4812,7 +4977,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Central Europe",
@@ -4832,16 +4998,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
-            "hiking": "o",
-            "beach": "-",
+            "nature": "--",
+            "hiking": "+",
+            "beach": "++",
             "watersports": "-",
-            "entertainment": "+",
-            "wintersports": "o",
+            "entertainment": "++",
+            "wintersports": "++",
             "culture": "+",
             "culinary": "o",
-            "architecture": "+",
-            "shopping": "o"
+            "architecture": "++",
+            "shopping": "++",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Central Europe",
@@ -4861,16 +5028,17 @@
             "nov": "-",
             "dec": "+",
             "safety": "",
-            "nature": "+",
+            "nature": "++",
             "hiking": "+",
-            "beach": "--",
+            "beach": "o",
             "watersports": "-",
-            "entertainment": "o",
+            "entertainment": "+",
             "wintersports": "++",
             "culture": "+",
             "culinary": "o",
-            "architecture": "+",
-            "shopping": "o"
+            "architecture": "++",
+            "shopping": "o",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Central Europe",
@@ -4891,15 +5059,16 @@
             "dec": "",
             "safety": "",
             "nature": "o",
-            "hiking": "o",
-            "beach": "-",
+            "hiking": "+",
+            "beach": "++",
             "watersports": "-",
-            "entertainment": "o",
-            "wintersports": "-",
+            "entertainment": "++",
+            "wintersports": "o",
             "culture": "+",
-            "culinary": "-",
-            "architecture": "+",
-            "shopping": "o"
+            "culinary": "o",
+            "architecture": "++",
+            "shopping": "+",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Central Europe",
@@ -4919,16 +5088,17 @@
             "nov": "-",
             "dec": "+",
             "safety": "",
-            "nature": "+",
-            "hiking": "+",
-            "beach": "--",
+            "nature": "++",
+            "hiking": "++",
+            "beach": "o",
             "watersports": "-",
-            "entertainment": "o",
-            "wintersports": "++",
+            "entertainment": "+",
+            "wintersports": "+",
             "culture": "+",
             "culinary": "o",
-            "architecture": "+",
-            "shopping": "o"
+            "architecture": "++",
+            "shopping": "o",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Central Europe",
@@ -4948,16 +5118,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "+",
-            "hiking": "+",
-            "beach": "+",
+            "nature": "++",
+            "hiking": "++",
+            "beach": "++",
             "watersports": "o",
-            "entertainment": "o",
-            "wintersports": "o",
+            "entertainment": "++",
+            "wintersports": "++",
             "culture": "+",
-            "culinary": "+",
-            "architecture": "+",
-            "shopping": "+"
+            "culinary": "++",
+            "architecture": "++",
+            "shopping": "++",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Central Europe",
@@ -4977,16 +5148,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
+            "nature": "+",
             "hiking": "o",
-            "beach": "+",
+            "beach": "++",
             "watersports": "o",
-            "entertainment": "o",
-            "wintersports": "-",
+            "entertainment": "+",
+            "wintersports": "o",
             "culture": "+",
-            "culinary": "o",
+            "culinary": "-",
             "architecture": "+",
-            "shopping": "o"
+            "shopping": "o",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Europe",
@@ -5015,7 +5187,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "British Islands",
@@ -5036,15 +5209,16 @@
             "dec": "",
             "safety": "",
             "nature": "+",
-            "hiking": "o",
-            "beach": "--",
+            "hiking": "+",
+            "beach": "++",
             "watersports": "--",
-            "entertainment": "o",
-            "wintersports": "-",
+            "entertainment": "++",
+            "wintersports": "o",
             "culture": "+",
-            "culinary": "o",
-            "architecture": "o",
-            "shopping": "o"
+            "culinary": "--",
+            "architecture": "++",
+            "shopping": "++",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "British Islands",
@@ -5064,16 +5238,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
-            "hiking": "o",
-            "beach": "--",
+            "nature": "++",
+            "hiking": "+",
+            "beach": "+",
             "watersports": "--",
-            "entertainment": "o",
-            "wintersports": "-",
+            "entertainment": "++",
+            "wintersports": "o",
             "culture": "+",
             "culinary": "-",
-            "architecture": "o",
-            "shopping": "o"
+            "architecture": "++",
+            "shopping": "-",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "British Islands",
@@ -5093,16 +5268,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
-            "hiking": "o",
-            "beach": "-",
+            "nature": "++",
+            "hiking": "+",
+            "beach": "++",
             "watersports": "--",
-            "entertainment": "o",
-            "wintersports": "--",
+            "entertainment": "--",
+            "wintersports": "o",
             "culture": "+",
-            "culinary": "-",
-            "architecture": "+",
-            "shopping": "+"
+            "culinary": "--",
+            "architecture": "--",
+            "shopping": "+",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Europe",
@@ -5131,7 +5307,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Eastern Europe",
@@ -5151,16 +5328,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
+            "nature": "+",
             "hiking": "o",
-            "beach": "--",
+            "beach": "o",
             "watersports": "--",
-            "entertainment": "o",
-            "wintersports": "o",
+            "entertainment": "++",
+            "wintersports": "+",
             "culture": "+",
             "culinary": "o",
             "architecture": "+",
-            "shopping": "o"
+            "shopping": "+",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Eastern Europe",
@@ -5180,16 +5358,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
-            "hiking": "+",
+            "nature": "-",
+            "hiking": "--",
             "beach": "-",
             "watersports": "-",
-            "entertainment": "o",
+            "entertainment": "+",
             "wintersports": "-",
             "culture": "+",
             "culinary": "o",
-            "architecture": "+",
-            "shopping": "o"
+            "architecture": "o",
+            "shopping": "o",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Eastern Europe",
@@ -5209,16 +5388,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
-            "hiking": "o",
-            "beach": "-",
+            "nature": "+",
+            "hiking": "-",
+            "beach": "+",
             "watersports": "-",
-            "entertainment": "o",
-            "wintersports": "-",
+            "entertainment": "+",
+            "wintersports": "o",
             "culture": "+",
             "culinary": "o",
             "architecture": "+",
-            "shopping": "-"
+            "shopping": "o",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Eastern Europe",
@@ -5238,16 +5418,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
+            "nature": "+",
             "hiking": "-",
-            "beach": "-",
+            "beach": "++",
             "watersports": "-",
-            "entertainment": "o",
-            "wintersports": "--",
+            "entertainment": "++",
+            "wintersports": "+",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "o",
-            "shopping": "o"
+            "culinary": "+",
+            "architecture": "++",
+            "shopping": "++",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Eastern Europe",
@@ -5267,16 +5448,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
-            "hiking": "o",
-            "beach": "-",
+            "nature": "+",
+            "hiking": "-",
+            "beach": "++",
             "watersports": "-",
-            "entertainment": "-",
-            "wintersports": "-",
+            "entertainment": "++",
+            "wintersports": "o",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "-",
-            "shopping": "-"
+            "culinary": "--",
+            "architecture": "++",
+            "shopping": "++",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Eastern Europe",
@@ -5296,16 +5478,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
-            "hiking": "o",
-            "beach": "o",
+            "nature": "++",
+            "hiking": "+",
+            "beach": "+",
             "watersports": "o",
-            "entertainment": "-",
-            "wintersports": "--",
+            "entertainment": "++",
+            "wintersports": "-",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "o",
-            "shopping": "-"
+            "culinary": "-",
+            "architecture": "++",
+            "shopping": "o",
+            "sustainability": "o"
         },
         {
             "ParentRegion": "Eastern Europe",
@@ -5325,16 +5508,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "-",
-            "hiking": "-",
-            "beach": "--",
+            "nature": "++",
+            "hiking": "o",
+            "beach": "+",
             "watersports": "--",
-            "entertainment": "-",
-            "wintersports": "--",
+            "entertainment": "++",
+            "wintersports": "-",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "-",
-            "shopping": "-"
+            "culinary": "-",
+            "architecture": "+",
+            "shopping": "o",
+            "sustainability": "o"
         },
         {
             "ParentRegion": "Eastern Europe",
@@ -5354,16 +5538,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "-",
+            "nature": "o",
             "hiking": "-",
-            "beach": "o",
+            "beach": "-",
             "watersports": "-",
-            "entertainment": "-",
+            "entertainment": "+",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "-",
-            "shopping": "-"
+            "culinary": "--",
+            "architecture": "+",
+            "shopping": "-",
+            "sustainability": "-"
         },
         {
             "ParentRegion": "Europe",
@@ -5392,7 +5577,8 @@
             "culture": "",
             "culinary": "",
             "architecture": "",
-            "shopping": ""
+            "shopping": "",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southern Europe",
@@ -5413,15 +5599,16 @@
             "dec": "",
             "safety": "",
             "nature": "o",
-            "hiking": "o",
+            "hiking": "--",
             "beach": "+",
             "watersports": "o",
             "entertainment": "-",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "o",
+            "culinary": "+",
             "architecture": "-",
-            "shopping": "-"
+            "shopping": "--",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Southern Europe",
@@ -5441,16 +5628,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "+",
-            "hiking": "+",
-            "beach": "+",
+            "nature": "++",
+            "hiking": "++",
+            "beach": "++",
             "watersports": "+",
-            "entertainment": "o",
-            "wintersports": "--",
+            "entertainment": "++",
+            "wintersports": "+",
             "culture": "++",
-            "culinary": "+",
+            "culinary": "--",
             "architecture": "++",
-            "shopping": "o"
+            "shopping": "++",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Southern Europe",
@@ -5472,14 +5660,15 @@
             "safety": "",
             "nature": "+",
             "hiking": "+",
-            "beach": "+",
+            "beach": "++",
             "watersports": "+",
-            "entertainment": "o",
-            "wintersports": "--",
+            "entertainment": "+",
+            "wintersports": "-",
             "culture": "+",
-            "culinary": "+",
+            "culinary": "++",
             "architecture": "+",
-            "shopping": "o"
+            "shopping": "-",
+            "sustainability": "+"
         },
         {
             "ParentRegion": "Southern Europe",
@@ -5508,7 +5697,8 @@
             "culture": "++",
             "culinary": "+",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "-",
+            "sustainability": ""
         },
         {
             "ParentRegion": "Southern Europe",
@@ -5528,16 +5718,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
-            "hiking": "-",
+            "nature": "++",
+            "hiking": "+",
             "beach": "++",
             "watersports": "+",
-            "entertainment": "+",
-            "wintersports": "--",
+            "entertainment": "++",
+            "wintersports": "+",
             "culture": "+",
-            "culinary": "+",
-            "architecture": "+",
-            "shopping": "o"
+            "culinary": "++",
+            "architecture": "++",
+            "shopping": "++",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Southern Europe",
@@ -5557,16 +5748,17 @@
             "nov": "o",
             "dec": "-",
             "safety": "",
-            "nature": "+",
-            "hiking": "+",
-            "beach": "++",
+            "nature": "--",
+            "hiking": "--",
+            "beach": "--",
             "watersports": "+",
-            "entertainment": "++",
+            "entertainment": "-",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "+",
-            "architecture": "o",
-            "shopping": "-"
+            "culinary": "--",
+            "architecture": "-",
+            "shopping": "--",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Southern Europe",
@@ -5586,16 +5778,17 @@
             "nov": "++",
             "dec": "o",
             "safety": "",
-            "nature": "o",
-            "hiking": "o",
-            "beach": "+",
+            "nature": "--",
+            "hiking": "--",
+            "beach": "--",
             "watersports": "o",
-            "entertainment": "+",
+            "entertainment": "-",
             "wintersports": "--",
             "culture": "o",
-            "culinary": "o",
-            "architecture": "o",
-            "shopping": "-"
+            "culinary": "--",
+            "architecture": "-",
+            "shopping": "--",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Southern Europe",
@@ -5615,16 +5808,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "o",
-            "hiking": "o",
+            "nature": "-",
+            "hiking": "+",
             "beach": "+",
             "watersports": "o",
-            "entertainment": "o",
+            "entertainment": "+",
             "wintersports": "--",
             "culture": "+",
-            "culinary": "+",
+            "culinary": "++",
             "architecture": "+",
-            "shopping": "-"
+            "shopping": "+",
+            "sustainability": "++"
         },
         {
             "ParentRegion": "Southern Europe",
@@ -5644,16 +5838,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "+",
-            "hiking": "+",
-            "beach": "+",
+            "nature": "--",
+            "hiking": "--",
+            "beach": "--",
             "watersports": "+",
-            "entertainment": "o",
+            "entertainment": "--",
             "wintersports": "--",
             "culture": "+",
-            "culinary": "o",
-            "architecture": "o",
-            "shopping": "-"
+            "culinary": "--",
+            "architecture": "-",
+            "shopping": "--",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Southern Europe",
@@ -5674,15 +5869,16 @@
             "dec": "",
             "safety": "",
             "nature": "o",
-            "hiking": "o",
+            "hiking": "-",
             "beach": "+",
             "watersports": "o",
-            "entertainment": "o",
-            "wintersports": "o",
+            "entertainment": "++",
+            "wintersports": "-",
             "culture": "++",
             "culinary": "+",
-            "architecture": "+",
-            "shopping": "o"
+            "architecture": "++",
+            "shopping": "++",
+            "sustainability": "--"
         },
         {
             "ParentRegion": "Southern Europe",
@@ -5702,16 +5898,17 @@
             "nov": "",
             "dec": "",
             "safety": "",
-            "nature": "-",
+            "nature": "--",
             "hiking": "o",
-            "beach": "+",
+            "beach": "-",
             "watersports": "+",
             "entertainment": "o",
             "wintersports": "--",
             "culture": "+",
-            "culinary": "o",
+            "culinary": "--",
             "architecture": "o",
-            "shopping": "-"
+            "shopping": "--",
+            "sustainability": "-"
         }
     ]
 }
